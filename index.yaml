@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  helm-nginx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-03-09T11:33:29.220440796+07:00"
+    description: A Helm chart for Kubernetes
+    digest: caf595046f8741d9b35a55ccbeebfd39f1466ea81d07a63e480c1466d20f6b8a
+    name: helm-nginx
+    type: application
+    urls:
+    - https://settakit-sirisoft.github.io/stksrshelm/helm-nginx-0.1.0.tgz
+    version: 0.1.0
+  mychart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-03-09T11:33:29.221815234+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 8f740d3265ad7df4180ec96b85dc9a45a6a32edba3d45db36d7bf5137dec6aaa
+    name: mychart
+    type: application
+    urls:
+    - https://settakit-sirisoft.github.io/stksrshelm/mychart-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-03-09T11:33:29.21821986+07:00"
